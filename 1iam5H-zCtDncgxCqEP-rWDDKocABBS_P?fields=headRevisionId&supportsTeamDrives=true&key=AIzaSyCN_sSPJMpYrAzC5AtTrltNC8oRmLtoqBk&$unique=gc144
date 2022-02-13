@@ -1,0 +1,14 @@
+{
+ "error": {
+  "errors": [
+   {
+    "domain": "usageLimits",
+    "reason": "ipRefererBlocked",
+    "message": "The request did not specify any referer. Please ensure that the client is sending referer or use the API Console to remove the referer restrictions.",
+    "extendedHelp": "https://console.developers.google.com/apis/credentials?project=1014160490159"
+   }
+  ],
+  "code": 403,
+  "message": "The request did not specify any referer. Please ensure that the client is sending referer or use the API Console to remove the referer restrictions."
+ }
+}
